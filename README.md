@@ -1,2 +1,0 @@
-# Myeducate
-Proyecto de educacion
