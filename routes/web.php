@@ -21,6 +21,7 @@ Route::get('welcome','welcomeController@index')->name('welcome.index');
 Auth::routes();
 Route::get('logout', 'QovexController@logout');
 Route::get('index', 'QovexController@index');
+Route::resource('events','EventsController');
 
 Route::get('pages-login', 'QovexController@index');
 Route::get('pages-login-2', 'QovexController@index');
