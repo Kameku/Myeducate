@@ -12,6 +12,6 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $enquirys = factory(App\Enquiry::class, 20)->create();
+        $enquirys = factory(App\Enquiry::class, 120)->create();
     }
 }
