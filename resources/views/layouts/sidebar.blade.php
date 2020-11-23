@@ -30,7 +30,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="calendar" class=" waves-effect">
+                    <a href="events" class=" waves-effect">
                         <i class="mdi mdi-calendar-text"></i>
                         <span>Calendar</span>
                     </a>
